@@ -1,0 +1,22 @@
+{
+  "name": "2019-06-26-002-advanced-javascript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "compile": "babel src --out-dir lib"
+  },
+  "keywords": [],
+  "author": "Chyld Medford",
+  "license": "MIT",
+  "devDependencies": {
+    "@babel/cli": "^7.4.4",
+    "@babel/core": "^7.4.5",
+    "@babel/plugin-proposal-do-expressions": "^7.2.0",
+    "@babel/plugin-proposal-numeric-separator": "^7.2.0",
+    "@babel/plugin-proposal-optional-chaining": "^7.2.0",
+    "@babel/plugin-proposal-partial-application": "^7.4.4",
+    "@babel/plugin-proposal-pipeline-operator": "^7.3.2",
+    "chokidar-cli": "^1.2.2"
+  }
+}
