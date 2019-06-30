@@ -1,5 +1,15 @@
 # 1906261-experimental-js
 
+### Techniques
+
+- Babel
+- Chokidar
+- Do Expressions
+- Numeric Separator
+- Optional Chaining
+- Partial Appliation
+- Pipeline Operator
+
 ### Description
 
 Showcase advanced features of JavaScript that are at Stage 0, 1 or 2 in the TC39 proposal process.
